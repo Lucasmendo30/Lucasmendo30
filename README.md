@@ -45,7 +45,11 @@ HackUPC 2025, CyberTalent2025
 
 **Curso Linux Red Hat:** Administración de Sistemas con Red Hat Enterprise Linux, 2025. Gestión de usuarios, servicios, redes, automatización y seguridad en entornos Linux.
 
-**Curso de desarrollo de Apps Móviles de Google:** Habilidades y conceptos básicos para crear aplicaciones para dispositivos móviles.
+**Python for Official Statistics:** Entendimiento básico del uso de Python para estadística, 2025. Otorgado por European Union Academy.
+
+**Curso de desarrollo de Apps Móviles de Google:** Habilidades y conceptos básicos para crear aplicaciones para dispositivos móviles, 2024.
+
+ 
 
 
 ---
