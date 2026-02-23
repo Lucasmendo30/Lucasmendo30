@@ -22,7 +22,7 @@ Actualmente soy estudiante del Grado en Ciencia e Ingeniería de Datos en la **U
 
 ---
 
-## 🎓 Conocimientos Académicos
+## Conocimientos Académicos
 
 * **Lenguajes:** Java, C, PHP, Python, R, Dart
 * **Desarrollo Web & Bases de Datos:** HTML5, CSS3, SQLite
@@ -33,11 +33,9 @@ Actualmente soy estudiante del Grado en Ciencia e Ingeniería de Datos en la **U
 
 ## Proyectos y Hackathons
 
+HackUPC 2025, CyberTalent2025
+
 ### Devpost
-
-HackUPC 2025
-CyberTalent2025
-
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/lucasmendozaguancha12?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 
@@ -45,11 +43,8 @@ CyberTalent2025
 
 ## Formación Complementaria
 
-### Curso Linux Red Hat
-
-**Curso:** Administración de Sistemas con Red Hat Enterprise Linux  
-**Fecha:** 2025  
-**Descripción:** Gestión de usuarios, servicios, redes, automatización y seguridad en entornos Linux.
+**Curso Linux Red Hat:** Administración de Sistemas con Red Hat Enterprise Linux, 2025. Gestión de usuarios, servicios, redes, automatización y seguridad en entornos Linux.
+**Curso de desarrollo de Apps Móviles de Google:** Habilidades y conceptos básicos para crear aplicaciones para dispositivos móviles.
 
 
 ---
@@ -60,7 +55,6 @@ CyberTalent2025
   <img src="https://github-readme-stats.vercel.app/api?username=Lucasmendo30&show_icons=true&theme=tokyonight" alt="Estadísticas de Lucas" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmendo30&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
-
 ---
 
 ## Conecta conmigo
