@@ -44,20 +44,13 @@ HackUPC 2025, CyberTalent2025
 ## Formación Complementaria
 
 **Curso Linux Red Hat:** Administración de Sistemas con Red Hat Enterprise Linux, 2025. Gestión de usuarios, servicios, redes, automatización y seguridad en entornos Linux.
+
 **Curso de desarrollo de Apps Móviles de Google:** Habilidades y conceptos básicos para crear aplicaciones para dispositivos móviles.
 
 
 ---
 
-## Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucasmendo30&show_icons=true&theme=tokyonight" alt="Estadísticas de Lucas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmendo30&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
----
-
-## Conecta conmigo
+## Contacta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-mendoza-rodr%C3%ADguez-1605732bb/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lucasmendozaguancha12@gmail.com)
